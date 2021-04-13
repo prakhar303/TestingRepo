@@ -15,4 +15,8 @@ public class MobileAutomationTest {
 	public void newD() {
 		System.out.println("newDevelopment");
 	}
+	
+	public void newD2() {
+		System.out.println("newDevelopment 2");
+	}
 }
