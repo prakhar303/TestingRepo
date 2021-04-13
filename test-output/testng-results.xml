@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-10T09:55:38 IST" name="Suite" finished-at="2021-04-10T09:55:38 IST" duration-ms="60">
+  <suite started-at="2021-04-13T08:30:30 IST" name="Default suite" finished-at="2021-04-13T08:30:30 IST" duration-ms="67">
     <groups>
     </groups>
-    <test started-at="2021-04-10T09:55:38 IST" name="Test" finished-at="2021-04-10T09:55:38 IST" duration-ms="60">
-      <class name="QAClickAcademy.restAPITest">
-        <test-method signature="restAPI1()[pri:0, instance:QAClickAcademy.restAPITest@60015ef5]" started-at="2021-04-10T09:55:38 IST" name="restAPI1" finished-at="2021-04-10T09:55:38 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- restAPI1 -->
-      </class> <!-- QAClickAcademy.restAPITest -->
+    <test started-at="2021-04-13T08:30:30 IST" name="Default test" finished-at="2021-04-13T08:30:30 IST" duration-ms="67">
       <class name="QAClickAcademy.MobileAutomationTest">
-        <test-method signature="MobileAutomation1()[pri:0, instance:QAClickAcademy.MobileAutomationTest@2f54a33d]" started-at="2021-04-10T09:55:38 IST" name="MobileAutomation1" finished-at="2021-04-10T09:55:38 IST" duration-ms="2" status="PASS">
+        <test-method signature="element()[pri:0, instance:QAClickAcademy.MobileAutomationTest@65b3f4a4]" started-at="2021-04-13T08:30:30 IST" name="element" finished-at="2021-04-13T08:30:30 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- MobileAutomation1 -->
+        </test-method> <!-- element -->
       </class> <!-- QAClickAcademy.MobileAutomationTest -->
-      <class name="QAClickAcademy.WebAutomationTest">
-        <test-method signature="WebAutomation1()[pri:0, instance:QAClickAcademy.WebAutomationTest@55740540]" started-at="2021-04-10T09:55:38 IST" name="WebAutomation1" finished-at="2021-04-10T09:55:38 IST" duration-ms="12" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- WebAutomation1 -->
-      </class> <!-- QAClickAcademy.WebAutomationTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

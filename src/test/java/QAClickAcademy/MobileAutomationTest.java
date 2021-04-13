@@ -12,4 +12,7 @@ public class MobileAutomationTest {
 		System.out.println("element");
 	}
 	
+	public void newD() {
+		System.out.println("newDevelopment");
+	}
 }
